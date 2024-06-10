@@ -57,6 +57,8 @@ Average trading amount of previous 5 years
 ![Screenshot (295)](https://github.com/Tushar101qaz/Stock-market-/assets/170803472/99aad61d-17a4-427d-8f10-1ae6b9c62dfe)
 
 Trading volume of previous 5 years 
+
+
 ![Screenshot (296)](https://github.com/Tushar101qaz/Stock-market-/assets/170803472/d82bea23-6253-4ba3-bbcc-d6d8027049fd)
 
 
