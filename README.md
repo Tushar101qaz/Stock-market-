@@ -41,7 +41,9 @@ Highest and Lowest Dividend
 ![Screenshot (285)](https://github.com/Tushar101qaz/Stock-market-/assets/170803472/ab648b0e-db6a-4667-b4ed-03260a0152a2)
 
 Price to Earning ratio 
+
 ![Screenshot (286)](https://github.com/Tushar101qaz/Stock-market-/assets/170803472/d5842a11-01aa-424c-b8df-613a4a203b65)
+
 
 
 ![Screenshot (287)](https://github.com/Tushar101qaz/Stock-market-/assets/170803472/b1b64193-3598-43aa-a615-9faa048c46da)
