@@ -69,6 +69,13 @@ Trading volume of previous 5 years
 
 ![Screenshot (280)](https://github.com/Tushar101qaz/Stock-market-/assets/170803472/af6276d0-b18d-4cab-844f-7e62fddf053d)
 
+# Power Bi Dashboard 
+
+![Screenshot 2024-06-19 171117](https://github.com/Tushar101qaz/Stock-market-/assets/170803472/63f10481-0c02-4f5d-aad7-bf54ba7eff28)
+
+
+![Screenshot 2024-06-19 174038](https://github.com/Tushar101qaz/Stock-market-/assets/170803472/e497f607-358a-4403-88fe-944869ab7e80)
+
 # Insights 
 
 --> FB is having the maximum number of stocks traded daily with the trading volume 5.53M stocks per day . All stocks are having good liquidity which allows them to traded without significant price change  
